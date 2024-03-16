@@ -1,7 +1,8 @@
 # Dino-Rush-Game-Gdevelop
 This is a 2D Dino game, which I have made using the GDevelope game engine.
 
-<img src="Screenshot 2024-01-13 112719.png"><br>
+<img src="Screenshot 2024-01-13 112719.png">
+<br><br><br>
 <img src="Screenshot 2024-01-13 112250.png">
 
 ## Game Setup 
